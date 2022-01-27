@@ -1,2 +1,2 @@
 # DL-Chess-Project
-Project for the Deep Learning Course of ENS Ulm
+Project by Thomas MICHEL and Gabriel JEANTET for the Deep Learning Course of ENS Ulm
